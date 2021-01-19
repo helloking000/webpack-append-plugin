@@ -1,5 +1,27 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "webpack loader",
-  "name": "webpack-append-plugin"
+  "name": "webpack-append-plugin",
+  "main": "src/index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "keywords": [
+    "assets",
+    "js",
+    "append",
+    "webpack",
+    "webpack-plugin"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "webpack": ">=5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "heloking",
+  "license": "MIT"
 }
