@@ -3,6 +3,10 @@
   "description": "webpack loader",
   "name": "webpack-append-plugin",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:helloking000/webpack-append-plugin.git"
+  },
   "directories": {
     "example": "examples",
     "test": "test"
